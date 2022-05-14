@@ -1,0 +1,6 @@
+# file: .gitignore_global
+SDS_Store
+.idea
+.github
+composer.json
+composer.lock
